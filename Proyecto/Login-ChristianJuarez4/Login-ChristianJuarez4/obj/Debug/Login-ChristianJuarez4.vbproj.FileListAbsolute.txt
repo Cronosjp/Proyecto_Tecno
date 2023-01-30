@@ -1,0 +1,14 @@
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\bin\Debug\Login-ChristianJuarez4.exe.config
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login-ChristianJuarez4.vbprojResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login_ChristianJuarez4.Form1.resources
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login_ChristianJuarez4.Resources.resources
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login-ChristianJuarez4.vbproj.GenerateResource.Cache
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\bin\Debug\Login-ChristianJuarez4.exe
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\bin\Debug\Login-ChristianJuarez4.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\bin\Debug\Login-ChristianJuarez4.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login-ChristianJuarez4.exe
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login-ChristianJuarez4.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login-ChristianJuarez4.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login_ChristianJuarez4.Administrador.resources
+C:\Users\Informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login_ChristianJuarez4.Secretario.resources
+C:\Users\Informatica\documents\visual studio 2015\Projects\Login-ChristianJuarez4\Login-ChristianJuarez4\obj\Debug\Login_ChristianJuarez4.Usuario.resources
